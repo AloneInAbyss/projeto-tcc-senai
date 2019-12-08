@@ -3,7 +3,7 @@ Repositório do TCC para o curso de Técnico em Eletroeletrônica, na escola SEN
 O objetivo desse projeto é construir um console portátil para videogames, que seja de código aberto (open source) e inclua recursos inovadores, por exemplo o uso de realidade aumentada.
 
 ## Desenvolvimento
-O projeto será desenvolvido com base em um microcontrolador (Arduino) ou em um microcomputador (Raspberry Pi), tudo dependerá das necessidades de hardware. Também criaremos um circuito eletrônico próprio para o funcionamento do dispositivo.
+O projeto será desenvolvido com base em um microcontrolador (Arduino) ou em um microcomputador (Raspberry Pi), a depender das necessidades do sistema. Também criaremos um circuito eletrônico próprio para o funcionamento do dispositivo e tentaremos ao máximo criar nossos próprios recursos e acessórios para o projeto.
 
 ## Integrantes
 Turma: **Técnico em Eletroeletrônica (Jan/2019 a Dez/2020, Turno Vespertino)**
