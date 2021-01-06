@@ -18,4 +18,5 @@ Nome: **Michell Christofferson**
 <br>
 
 Início em 01/12/2019 | Descontinuado
+
 Término em Dez/2020.
